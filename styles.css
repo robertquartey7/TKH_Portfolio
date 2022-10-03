@@ -491,6 +491,7 @@ div .dot {
       transform: scale(1.3) translateY(-100px) rotate(360deg);
     }
   }
+  
   .time{
     background-color: var(--bg-color);
     color:white;
